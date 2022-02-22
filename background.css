@@ -1,21 +1,6 @@
 body{
-    
-  background-image:url("arkaplan/arkaplan2.jpg");
 
- -webkit-background-size:cover;
- -moz-background-size:cover;
- -o-background-size:cover;
-background-size: cover;
-
-
-
-
-/*background-repeat: no-repeat;*/
-   
-/*background-color:#cc9900 ;*/
-
-
- 
+background-color:#cc9900 ;  
 }
 
 /*#cc9900*/
