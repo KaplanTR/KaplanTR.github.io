@@ -3,4 +3,13 @@ body{
 background-color:#cc9900 ;  
 }
 
+li a{
+
+    border-radius: 7px;
+}
 /*#cc9900*/
+
+
+a{
+    border-radius: 7px;
+}
