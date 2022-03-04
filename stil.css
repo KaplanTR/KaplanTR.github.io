@@ -1,10 +1,29 @@
+
+
+
+
+
+.header{
+    display: block;
+    background-color: #FF0;
+    height: 60px;
+    margin: 10px;
+    padding: 0%;
+   border-radius: 8px;
+}
+
+
+
+
 .acilirmenu{
+    
     width:180px;
     height:auto;
 }
 .acilirmenu ul{
-    width:180px;
-    margin:0;
+    
+    width: 179px;
+   margin: 0;
     padding:0;
     list-style-type:none;   
 }
@@ -15,11 +34,12 @@
     position:absolute;
     list-style-type:none;
     left:179px;
-    width:180px;
+    width:140px;
     display:none;
     top:0;    
 }
 .acilirmenu li a{
+    margin: 8px;
     height:30px;
     display: block;
     text-decoration: none;
@@ -31,6 +51,7 @@
     border-bottom:0; 
     text-align: center;
     line-height: 30px;
+    border-radius: 8px;
 }
 .acilirmenu li a:hover{
     background-color:#52BEAA;
