@@ -5,12 +5,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, inital-scale=1">
 <title>fizikbilimi</title>
-<link rel="stylesheet" href="background.css">
+
+<link rel="stylesheet" href="css/background.css">
+
 
 
 </head>
 <script>
-
+ 
 </script>
 <style>
     
@@ -30,56 +32,64 @@ ul{
 }
 
 li{
-    border-style: solid;
+   
     float:left;
     text-align: center;
+   
 }
 
 li a{
     
     display: block;
-    background-color:white ;
+    background-color: skyblue;
     color:black;
-    margin: 5px;
-    height: 50px;
-    width: 100px;
+    margin: 6px;
+    height: 35px;
+    width: 90px;
     text-align: center;
     line-height: 50px;
     text-decoration: none;
     transition: all .3s ease-in;
+    border-radius: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(10,10,10,10.2);
 }
 li a:hover{
     
     color: white;
-    background-color: black;
-    opacity: 0.7;
+    
+    opacity: 0.8;
 }
 
 .dropbtn {
   background-color: #4CAF50;
   color: white;
   padding: 16px;
-  font-size: 16px;
+  font-size: 20px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
+  box-shadow: 0px 8px 16px 0px rgba(10,10,10,10.2);
   
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
+
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
   right: 0;
-  background-color: #cc9990 ;
+  background-color:rgb(73, 71, 71);
   min-width: 165px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(10,10,10,10.2);
   z-index: 1;
+  border-radius: 10px;
+ 
 }
+
 
 .dropdown-content a {
   color: black;
@@ -88,7 +98,7 @@ li a:hover{
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1;}
+
 
 .dropdown:hover .dropdown-content {
   display: block;
@@ -102,9 +112,28 @@ li a:hover{
 <body>
 
 
+   
+     
+
+
+
+
+
+   
+        <h1 style="  
+          text-align:
+         center; color: black;
+          box-shadow: 0px 8px 16px 0px rgba(10,10,10,10.2);
+        
+          height: 40px;
+            ">FİZİK</h1>
+    
+ 
+
 <div class="dropdown" style="float:right;">
+ 
   <button class="dropbtn">menü</button>
-  <div class="dropdown-content" style="right:0;">
+  <div class="dropdown-content" style="right: 2px;;">
     <ul>
         <li><a href="anasayfa.html">ANASAYFA</a></li>
         <li><a href="içerik.html">İÇERİK</a></li>   
@@ -125,12 +154,3 @@ li a:hover{
 
 
 
-<body>
-<header>
-    <h1 style=" text-align: center; color: black;" >FİZİK</h1>
-</header>
-
-
-</body>
-
-</html>
