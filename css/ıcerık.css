@@ -1,3 +1,6 @@
+/*simulasyonekran bolumundekı butonların düzenini ayarlar*/
+/* soru havuzu bölümündeki sınıf butonları burdan ayarlanır*/
+/* video havuzu bölümündeki sınıf butonları burdan ayarlanır*/
 .programbuton{
        
     margin: 20px 20px;
@@ -18,7 +21,8 @@ color: white;
 
 }
 
-
+/*12. sınıf soru havuzu bölümündeki ünite seçme butonları bu bölümde
+ayarlanır*/
 .soruunıtebuton{
        
  
@@ -38,3 +42,7 @@ opacity: 0.9;
 color: white;
 
 }
+
+
+
+
