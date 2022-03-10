@@ -1,0 +1,65 @@
+html {
+    height: 100%;
+  }
+  
+body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background-color: #3a3a3a;
+  }
+
+
+  #button{
+    background-color: aqua;
+    color: black;
+    height: 40px;
+    width: 70px;
+    border-radius: 12px;
+    
+    
+    }
+
+
+
+    #username{
+   
+        border-radius: 10px;
+        
+    }
+    
+    #password{
+       
+        border-radius: 10px;
+        
+    
+    }
+
+  
+  
+  #gırıs{
+    width: 50%;
+    height: 70%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px 2px black;
+  }
+  
+  
+  
+  #gırısform{
+    align-self: flex-start;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+  }
+  
+  
+  
+  
