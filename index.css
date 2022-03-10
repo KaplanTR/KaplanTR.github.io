@@ -1,0 +1,30 @@
+#girisdiv{
+    text-align: center;
+    margin: 60px;
+    background-color: blueviolet;
+    border-radius: 15px;
+}
+
+
+#button{
+background-color: aqua;
+color: black;
+height: 40px;
+width: 60px;
+border-radius: 12px;
+margin: 10px;
+
+}
+
+
+body{
+    background-color: brown;
+}
+
+#username{
+    border-radius: 12px;
+}
+
+#password{
+    border-radius: 12px;
+}
