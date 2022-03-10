@@ -1,20 +1,11 @@
-#girisdiv{
-    text-align: center;
-    
-    background-color: blueviolet;
-    border-radius: 15px;
-    margin-left:250px;
-    margin-right:250px ;
-    max-width: 600px;
- 
-}
+
 
 
 #button{
 background-color: aqua;
 color: black;
-height: 40px;
-width: 60px;
+height: 60px;
+width: 90px;
 border-radius: 12px;
 margin: 10px;
 
@@ -26,6 +17,7 @@ body{
 }
 
 #username{
+    height: 40px;
     border-radius: 12px;
     margin: 10px;
 }
@@ -33,4 +25,6 @@ body{
 #password{
     margin: 10px;
     border-radius: 12px;
+    height: 40px;
+
 }
