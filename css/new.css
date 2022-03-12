@@ -1,0 +1,75 @@
+.main{
+width: 100%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+ }
+  .container{
+width:90%;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+background-color: skyblue;
+border-radius: 100px;
+border-style: solid;
+
+}
+.circle-and-text{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.circle{
+width:60px;
+height: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+border: 3px solid black;
+border-radius: 50%;
+margin: 10px;
+
+}
+
+#resım1{
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-image: url("images.jpg");
+
+}
+
+#resım2{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("images.jpg");
+    }
+    
+
+
+#resım3{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("images.jpg");
+    
+    
+}
+
+#resım4{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("images.jpg");
+    
+    
+
+}
+
+
