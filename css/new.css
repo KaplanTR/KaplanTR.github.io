@@ -73,3 +73,22 @@ background-image: url("images.jpg");
 }
 
 
+.menubuton{
+
+margin: 5px;
+background-color: #4CAF50;
+color: white;
+height: 25px;
+border-radius: 5px;
+
+}
+
+
+.baslık{
+   
+
+text-align: center;
+
+
+
+}

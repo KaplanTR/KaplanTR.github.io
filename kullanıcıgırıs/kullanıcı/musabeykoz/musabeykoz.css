@@ -1,4 +1,40 @@
 body{
 
-    background-color: gray;
+    background-color: bisque;
+}
+
+header{
+    background-color: skyblue;
+    height: 40%;
+    margin: 3px;
+    padding: 20px;
+    border-radius: 40px;
+}
+.headerıc{
+    
+background-color: aquamarine;
+width:25%;
+height: 20px;
+padding: 20px;
+border-radius: 30px;
+}
+
+.buton1{
+    text-align: center;
+width: 10%;
+height: 35px;
+border-radius: 20px;
+
+}
+
+.butons{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+
+.alan{
+    display: grid;
 }
