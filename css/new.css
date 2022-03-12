@@ -12,7 +12,7 @@ display: flex;
 justify-content: space-around;
 flex-wrap: wrap;
 background-color: skyblue;
-border-radius: 100px;
+border-radius: 50px;
 border-style: solid;
 
 }
