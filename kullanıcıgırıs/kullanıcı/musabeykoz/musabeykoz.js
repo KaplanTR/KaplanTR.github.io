@@ -7,3 +7,8 @@ function musa(){
       
     }
 }
+
+
+function oturumkapat(){
+    alert("oturum kapatıldı")
+}
